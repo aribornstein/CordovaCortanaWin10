@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ABORNST-YOGA</Machine>
+    <WindowsUser>abornst</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>debug|x64</SolutionConfiguration>
+    <PackageArchitecture>x64</PackageArchitecture>
+    <PackageIdentityName>029b83d0-827c-11e5-9c29-b18ede44fa85</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\abornst\Documents\Visual Studio 2015\Projects\CordovaCortanaUWPDemo\CordovaCortanaUWPDemo\platforms\windows\build\windows\bld\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>160E817893773A7648E2BF7386182D597072A559FD6A03439CD1EBF1196F90E0</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>io.cordova.myappb89f407925bf47c3a7f0a3c60cff5980_1.0.0.0_x64__h35559jr9hy9m</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>io.cordova.myappb89f407925bf47c3a7f0a3c60cff5980_h35559jr9hy9m!io.cordova.myappb89f407925bf47c3a7f0a3c60cff5980</RegisteredUserModeAppID>
+    <RegisteredPackageID>io.cordova.myappb89f407925bf47c3a7f0a3c60cff5980</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Apache Cordova Team</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\abornst\Documents\Visual Studio 2015\Projects\CordovaCortanaUWPDemo\CordovaCortanaUWPDemo\platforms\windows\build\windows\debug\x64\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-11-03T23:07:10.098</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2015\Projects\CordovaCortanaUWPDemo\CordovaCortanaUWPDemo\platforms\windows\images\SplashScreen.scale-100.png">
+      <PackagePath>images\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-11-03T23:07:07.128</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2015\Projects\CordovaCortanaUWPDemo\CordovaCortanaUWPDemo\platforms\windows\images\Square150x150Logo.scale-100.png">
+      <PackagePath>images\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-11-03T23:07:07.097</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2015\Projects\CordovaCortanaUWPDemo\CordovaCortanaUWPDemo\platforms\windows\images\Square30x30Logo.scale-100.png">
+      <PackagePath>images\Square30x30Logo.scale-100.png</PackagePath>
+      <Modified>2015-11-03T23:07:07.097</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2015\Projects\CordovaCortanaUWPDemo\CordovaCortanaUWPDemo\platforms\windows\images\Square310x310Logo.scale-100.png">
+      <PackagePath>images\Square310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-11-03T22:41:23.778</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2015\Projects\CordovaCortanaUWPDemo\CordovaCortanaUWPDemo\platforms\windows\images\Square44x44Logo.scale-100.png">
+      <PackagePath>images\Square44x44Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-11-03T22:41:23.780</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2015\Projects\CordovaCortanaUWPDemo\CordovaCortanaUWPDemo\platforms\windows\images\Square70x70Logo.scale-100.png">
+      <PackagePath>images\Square70x70Logo.scale-100.png</PackagePath>
+      <Modified>2015-11-03T23:07:07.112</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2015\Projects\CordovaCortanaUWPDemo\CordovaCortanaUWPDemo\platforms\windows\images\Square71x71Logo.scale-100.png">
+      <PackagePath>images\Square71x71Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-11-03T22:41:23.786</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2015\Projects\CordovaCortanaUWPDemo\CordovaCortanaUWPDemo\platforms\windows\images\StoreLogo.scale-100.png">
+      <PackagePath>images\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-11-03T23:07:07.112</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2015\Projects\CordovaCortanaUWPDemo\CordovaCortanaUWPDemo\platforms\windows\images\Wide310x150Logo.scale-100.png">
+      <PackagePath>images\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-11-03T23:07:07.128</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2015\Projects\CordovaCortanaUWPDemo\CordovaCortanaUWPDemo\platforms\windows\www\commands.vcd">
+      <PackagePath>www\commands.vcd</PackagePath>
+      <Modified>2015-11-03T23:07:06.457</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2015\Projects\CordovaCortanaUWPDemo\CordovaCortanaUWPDemo\platforms\windows\www\cordova.js">
+      <PackagePath>www\cordova.js</PackagePath>
+      <Modified>2015-11-03T23:07:06.526</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2015\Projects\CordovaCortanaUWPDemo\CordovaCortanaUWPDemo\platforms\windows\www\cordova_plugins.js">
+      <PackagePath>www\cordova_plugins.js</PackagePath>
+      <Modified>2015-11-03T23:07:07.175</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2015\Projects\CordovaCortanaUWPDemo\CordovaCortanaUWPDemo\platforms\windows\www\plugins\com.msopentech.cortana\src\windows\CortanaProxy.js">
+      <PackagePath>www\plugins\com.msopentech.cortana\src\windows\CortanaProxy.js</PackagePath>
+      <Modified>2015-11-03T23:07:07.181</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2015\Projects\CordovaCortanaUWPDemo\CordovaCortanaUWPDemo\platforms\windows\www\plugins\com.msopentech.cortana\www\cortana.js">
+      <PackagePath>www\plugins\com.msopentech.cortana\www\cortana.js</PackagePath>
+      <Modified>2015-11-03T23:07:07.181</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2015\Projects\CordovaCortanaUWPDemo\CordovaCortanaUWPDemo\platforms\windows\www\scripts\index.js">
+      <PackagePath>www\scripts\index.js</PackagePath>
+      <Modified>2015-11-03T23:07:06.480</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2015\Projects\CordovaCortanaUWPDemo\CordovaCortanaUWPDemo\platforms\windows\www\scripts\platformOverrides.js">
+      <PackagePath>www\scripts\platformOverrides.js</PackagePath>
+      <Modified>2015-11-03T23:07:06.495</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2015\Projects\CordovaCortanaUWPDemo\CordovaCortanaUWPDemo\platforms\windows\www\scripts\winstore-jscompat.js">
+      <PackagePath>www\scripts\winstore-jscompat.js</PackagePath>
+      <Modified>2015-11-03T23:07:06.495</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2015\Projects\CordovaCortanaUWPDemo\CordovaCortanaUWPDemo\platforms\windows\www\WinJS\js\base.js">
+      <PackagePath>www\WinJS\js\base.js</PackagePath>
+      <Modified>2015-11-03T23:07:06.680</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2015\Projects\CordovaCortanaUWPDemo\CordovaCortanaUWPDemo\platforms\windows\www\css\index.css">
+      <PackagePath>www\css\index.css</PackagePath>
+      <Modified>2015-11-03T23:07:06.457</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2015\Projects\CordovaCortanaUWPDemo\CordovaCortanaUWPDemo\platforms\windows\www\index.html">
+      <PackagePath>www\index.html</PackagePath>
+      <Modified>2015-11-03T23:07:06.474</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2015\Projects\CordovaCortanaUWPDemo\CordovaCortanaUWPDemo\platforms\windows\config.xml">
+      <PackagePath>config.xml</PackagePath>
+      <Modified>2015-11-03T23:07:08.949</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\abornst\Documents\Visual Studio 2015\Projects\CordovaCortanaUWPDemo\CordovaCortanaUWPDemo\platforms\windows\build\windows\debug\x64\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-11-03T23:07:09.851</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

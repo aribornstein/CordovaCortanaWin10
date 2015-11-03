@@ -1,0 +1,10 @@
+{
+    "com.msopentech.cortana": {
+        "source": {
+            "type": "local",
+            "path": "C:\\Users\\abornst\\Documents\\Win10Samples\\cordova-cortana-plugin"
+        },
+        "is_top_level": true,
+        "variables": {}
+    }
+}
